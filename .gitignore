@@ -1,0 +1,16 @@
+/**/*.iml
+/**/node_modules/
+/**/.idea/
+/**/target/
+/**/.docusaurus
+/**/.cache-loader
+/.history/
+/**/.project
+/**/.classpath
+/**/.factorypath
+/**/.settings/
+/website/build/
+/**/.vscode/
+/**/package-lock.json
+/**/document-engine-test.properties
+/**/.aws-sam/
